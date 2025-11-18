@@ -4,7 +4,7 @@
 
     * Armazena os dados dos funcionários, incluindo ID, nome, salário e data de contratação.
 
-2. **Tabela Funcionario_Auditoria:
+2. **Tabela Funcionario_Auditoria:**
 
     * Armazena o histórico de alterações dos salários dos funcionários, incluindo o salário antigo, o novo salário e a data de modificação.
 
